@@ -10,6 +10,8 @@ public class stepDefination {
 	@Given("User is on Netbanking landing page")
 	public void User_is_on_Netbanking_landing_page() {
 		System.out.print("I am in landing page");
+		System.out.print("I am in landing page git checking");
+		System.out.print("I am in landing page git checking");
 	}
 
 	@When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
