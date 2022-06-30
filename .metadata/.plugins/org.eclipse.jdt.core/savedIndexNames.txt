@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Admin\Desktop\Gitstuff\automation\.metadata\.plugins\org.eclipse.jdt.core
+2700623975.index
+869927575.index
+1865797976.index

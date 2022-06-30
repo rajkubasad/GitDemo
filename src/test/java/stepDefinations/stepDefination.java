@@ -39,4 +39,11 @@ public class stepDefination {
 	      System.out.println(arg1);
 	   System.out.println(arg2);
 	}
+	/*@Then("^cards displayed are \"([^\"]*)\"$")
+	public void cards_displayed_are(String arg1) throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	   System.out.println(arg1);
+	      System.out.println(arg1);
+	   System.out.println(arg2);
+	}*/
 }
